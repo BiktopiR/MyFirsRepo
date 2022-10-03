@@ -1,0 +1,19 @@
+h1{
+  color: red;
+  text-shadow: 1px 1px grey;
+  text-align: center;
+}
+
+
+h2{
+  color: blue;
+  text-align: left;
+}
+h4{
+  color:orange;
+  text-align: left;
+}
+footer{
+  color:green; 
+  text-align: center;
+}
